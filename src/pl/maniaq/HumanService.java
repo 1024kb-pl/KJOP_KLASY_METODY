@@ -5,7 +5,7 @@ public class HumanService {
     Human [] humans = {
             new Human("Pablo", 180, 85.4f),
             new Human("Escabo", 160, 75.4f),
-            new Human("John", 150, 55.4f),
+            new Human("Johny", 150, 55.4f),
             new Human("Admin", 152, 45.4f),
             new Human("Kamil", 170, 65.4f),
     };
